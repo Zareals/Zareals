@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 2.5D Game using Unity ENgine.
+- 🔭 I’m currently working on 2.5D Game using Unity Engine.
 - 🌱 I’m currently learning the beautiful world of VR
 - 📫 How to reach me: working on it
 - ⚡ Fun fact: I like video games duh :3
